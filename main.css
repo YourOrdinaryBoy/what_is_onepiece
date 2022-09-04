@@ -1,0 +1,471 @@
+.p{
+    background-color: #d5dfff;
+    line-height: 40 px;
+    font-size: 25px;
+    
+}    
+
+.logo {
+    background-color: #95ccff;
+    
+}
+
+.title {
+    font-family: Tahoma, Verdana, sans-serif;
+    color: #ffffff;
+    text-shadow: 2px 2px #505050;
+    letter-spacing: 15px;
+    font-size: 30px;
+    
+}
+
+.strawhat {
+    
+}
+
+.pirates {
+    color: #ff000a;
+    text-shadow: 2px 2px #505050;
+}
+
+.two {
+    background-color: #ffbe95;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.a {
+    background-color: #ffbe95;
+    line-height: 25px;
+    font-size: 20px;
+} 
+.b {
+    background-color: #ffbe95;
+    line-height: 25px;
+    font-size: 20px;
+}
+.emperor {
+    color: #a30700;
+    letter-spacing: 15px;
+}
+.list {
+    color: #26ff00;
+    text-shadow: 1px 1px #000000;
+}
+
+.four {
+    background-color: #ff8a80;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.five {
+    background-color: #ff8a80;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.six {
+    background-color: #ff8a80;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.seven {
+    background-color: #ff8a80;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.current {
+    color: #26ff00;
+    text-shadow: 1px 1px #000000;
+}
+
+.former{
+    color: #26ff00;
+    text-shadow: 1px 1px #000000;
+}
+
+.arcs {
+    color: #ffffff;
+    text-shadow: 1px 1px #000000;
+    letter-spacing: 10px;
+}
+
+body {
+    
+ -webkit-background-size:cover;
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background: url(background.jpeg) no-repeat center/cover;
+	background-attachment: fixed;
+	-webkit-background-clip: text;
+	}
+	
+	.arcsp {
+	    background-color: #a75e5e5e;
+	    line-height: 25px;
+    font-size: 20px;
+	    color: #ffffff;
+	}
+	
+	.arcslist {
+	    color: #aaffdf;
+	    text-shadow: 1px 1px #000000;
+	}
+
+.romance {
+    color: #ffffff;
+    text-shadow: 1px 1px #000000;
+}
+
+.dawn{
+    background-color: #bfffbf;
+    line-height: 25px;
+    font-size: 20px;
+    
+}
+
+.orange {
+    text-shadow: 1px 1px #000000;
+    color: #ffffff;
+}
+
+.town {
+    background-color: #bfffbf;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.syrup {
+    text-shadow: 1px 1px #000000;
+    color: #ffffff;
+    
+}
+
+.village {
+    
+    background-color: #bfffbf;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.baratie {
+    text-shadow: 1px 1px #000000;
+    color: #ffffff;
+}
+
+.barat {
+    background-color: #bfffbf; 
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.arlong {
+
+        text-shadow: 1px 1px #000000;
+    color: #ffffff;
+    
+}
+
+.park {
+    background-color: #bfffbf;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.logue {
+        text-shadow: 1px 1px #000000;
+    color: #ffffff;
+
+    
+}
+
+.loguetown {
+        background-color: #bfffbf;
+        line-height: 25px;
+    font-size: 20px;
+}
+
+.reverse {
+text-shadow: 1px 1px #000000;
+    color: #ffffff;
+    
+}
+
+.mountain {
+    background-color: #bfffbf;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.whisky {
+    
+     text-shadow: 1px 1px #000000;
+    color: #ffffff;
+}
+
+.peak {
+    background-color: #bfffbf;
+    line-height: 25px;
+    font-size: 20px;
+}
+.little {
+     text-shadow: 1px 1px #000000;
+    color: #ffffff;
+}
+
+.garden {
+    background-color: #bfffbf;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.drum {
+    text-shadow: 1px 1px #000000;
+    color: #ffffff;
+}
+
+.island {
+    background-color: #bfffbf;
+    line-height: 25x;
+    font-size: 20px;
+}
+
+.arabasta {
+    text-shadow: 1px 1px #000000;
+    color: #ffffff;
+}
+
+.kingdom {
+    background-color: #bfffbf;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.ja {
+    text-shadow: 1px 1px #000000;
+    color: #ffffff;
+}
+
+.ya {
+    background-color: #bfffbf;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.sky {
+    text-shadow: 1px 1px #000000;
+    color: #ffffff;
+}
+
+.piea {
+    background-color: #bfffbf;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.long {
+    text-shadow: 1px 1px #000000;
+    color: #ffffff;
+}
+
+.land {
+    background-color: #bfffbf;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.water {
+    text-shadow: 1px 1px #000000;
+    color: #ffffff;
+}
+
+.Seven {
+    background-color: #bfffbf;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.enies {
+    text-shadow: 1px 1px #000000;
+    color: #ffffff;
+}
+
+.lobby {
+    background-color: #bfffbf;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.post {
+    text-shadow: 1px 1px #000000;
+    color: #ffffff;
+}
+
+.postenies {
+    background-color: #bfffbf;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+
+.thriller {
+    text-shadow: 1px 1px #000000;
+    color: #ffffff;
+}
+
+.bark {
+    background-color: #bfffbf;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.sabaody {
+    text-shadow: 1px 1px #000000;
+    color: #ffffff;
+}
+
+.archipelago {
+    background-color: #bfffbf;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.amazon {
+    text-shadow: 1px 1px #000000;
+    color: #ffffff;
+}
+
+.liliy {
+    background-color: #bfffbf;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.impel {
+    text-shadow: 1px 1px #000000;
+    color: #ffffff;
+}
+
+.down {
+    background-color: #bfffbf;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.marine {
+    text-shadow: 1px 1px #000000;
+    color: #ffffff;
+}
+
+.ford {
+    background-color: #bfffbf;
+    line-height: 25px;
+    font-size: 20px;
+} 
+
+.post- {
+    text-shadow: 1px 1px #000000;
+    color: #ffffff;
+}
+
+.war {
+    background-color: #bfffbf;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.return {
+    text-shadow: 1px 1px #000000;
+    color: #ffffff;
+}
+
+.to {
+    background-color: #bfffbf;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.fish {
+    text-shadow: 1px 1px #000000;
+    color: #ffffff;
+}
+
+.man {
+    background-color: #bfffbf;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.punk {
+    text-shadow: 1px 1px #000000;
+    color: #ffffff;
+}
+
+.hazard {
+    background-color: #bfffbf;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.dress {
+    text-shadow: 1px 1px #000000;
+    color: #ffffff;
+}
+
+.rosa {
+    background-color: #bfffbf;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.zo {
+    text-shadow: 1px 1px #000000;
+    color: #ffffff;
+}
+
+.u {
+    background-color: #bfffbf;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.whole {
+    text-shadow: 1px 1px #000000;
+    color: #ffffff;
+}
+
+.cake {
+    background-color: #bfffbf;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.re {
+    text-shadow: 1px 1px #000000;
+    color: #ffffff;
+}
+
+.rie {
+    background-color: #bfffbf;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.wa {
+    text-shadow: 1px 1px #000000;
+    color: #ffffff;
+}
+
+.no {
+    background-color: #bfffbf;
+    line-height: 25px;
+    font-size: 20px;
+}
+.copy {
+    text-shadow: 1px 1px #000;
+    color: #fff;
+}
